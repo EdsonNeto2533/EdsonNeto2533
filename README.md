@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - Data Binding - ok
 - Fragments with Navigation - ok
-- Retrofit - Learning
+- Retrofit - ok
 
 <!---
 EdsonNeto2533/EdsonNeto2533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
