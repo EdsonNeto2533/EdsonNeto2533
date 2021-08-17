@@ -4,6 +4,8 @@
 - Data Binding - ok
 - Fragments with Navigation - ok
 - Retrofit - ok
+- NVVM - Learning
+- Firebase - Learning
 
 <!---
 EdsonNeto2533/EdsonNeto2533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
