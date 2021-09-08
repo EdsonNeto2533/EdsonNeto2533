@@ -6,7 +6,7 @@
 - Retrofit - ok
 - NVVM - ok
 - Firebase - Authentication - ok
-- Firebase - Database - Learning
+- Firebase - Database - ok
 - Room - Learning
 - Hilt - ok
 
