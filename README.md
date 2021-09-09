@@ -9,6 +9,7 @@
 - Firebase - Database - ok
 - Room - Learning
 - Hilt - ok
+- Coroutines - ok
 
 <!---
 EdsonNeto2533/EdsonNeto2533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
