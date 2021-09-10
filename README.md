@@ -4,7 +4,7 @@
 - Data Binding - ok
 - Fragments with Navigation - ok
 - Retrofit - ok
-- NVVM - ok
+- MVVM - ok
 - Firebase - Authentication - ok
 - Firebase - Database - ok
 - Room - Learning
