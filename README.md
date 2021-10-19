@@ -7,9 +7,11 @@
 - MVVM - ok
 - Firebase - Authentication - ok
 - Firebase - Database - ok
-- Room - Learning
+- Room - ok
 - Hilt - ok
 - Coroutines - ok
+- Koin - ok
+- Unit tests with Mockito - ok
 
 <!---
 EdsonNeto2533/EdsonNeto2533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
