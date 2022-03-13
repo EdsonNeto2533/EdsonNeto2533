@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - Data Binding - ok
 - Fragments with Navigation - ok
-- Retrofit - ok
+- Retrofit With OkHttp - ok
 - MVVM - ok
 - Firebase - Authentication - ok
 - Firebase - Database - ok
