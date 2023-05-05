@@ -4,7 +4,7 @@ Hi 👋 My name is Edson
 Android Developer
 -----------------
 
-Studying Kotlin and learning the best pratices, working at Serasa as a mobile developer. Current skills that i have knowledge: Retrofit With OkHttp MVVM Firebase - Authentication Firebase - Database Room Hilt Coroutines RXJava Koin Unit tests with Mockito
+Android kotlin and flutter developer, working at Serasa as a mobile developer. Current skills that i have knowledge: Retrofit With OkHttp MVVM Firebase - Authentication Firebase - Database Room Hilt Coroutines RXJava Koin Unit tests with Mockito
 
 * 🌍  I'm based in Blumenau - SC - Brazil
 * ✉️  You can contact me at [edsonneto2533@gmail.com](mailto:edsonneto2533@gmail.com)
