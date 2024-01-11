@@ -8,7 +8,7 @@ Android kotlin and flutter developer, working at Serasa as a mobile developer.
 
 * 🌍  I'm based in Blumenau - SC - Brazil
 * ✉️  You can contact me at [edsonneto2533@gmail.com](mailto:edsonneto2533@gmail.com)
-* 🧠  I'm learning Jetpack Compose and flutter
+* 🧠  Experience with Native Android development and hybrid development with Flutter
 * 🤝  I'm open to collaborating on any kotlin project
 
 ### Skills
